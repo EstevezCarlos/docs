@@ -42,7 +42,7 @@ sudo apt-get -y update && sudo apt-get install -y curl && curl -sL https://deb.n
 Install build tools, MongoDB, nodejs and graphicsmagick:
 
 ```bash
-sudo apt-get install -y build-essential mongodb-org nodejs graphicsmagick
+sudo apt-get install -y build-essential mongodb nodejs graphicsmagick
 ```
 
 Only for Ubuntu 19.04 install npm:
